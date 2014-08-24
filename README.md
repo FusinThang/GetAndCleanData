@@ -1,5 +1,5 @@
 GetAndCleanData Course Project
-
+#READ ME
 ===============
 
 HOW TO USE ? 
@@ -28,6 +28,8 @@ WHAT DO THE SCRIPTS DO ?
 
   - Merge all results together and make the tidy data set. Save the tidy data to "final_result.txt"
 
-  That all!
-  I'm not very sure about this project and have less time on it, so if there are anything wrong here, please feel free to comment on the evaluation/feedback.
-  Thanks for reviewing it!
+That all!
+
+I'm not very sure about this project and have less time on it, so if there are anything wrong here, please feel free to comment on the evaluation/feedback.
+
+Thanks for reviewing it!
